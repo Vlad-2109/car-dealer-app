@@ -4,6 +4,7 @@ Make next steps for running application:
 
 ```bash
 npm i
+
 npm run dev
 ```
 
